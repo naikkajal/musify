@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/musify_200"/>
+    <item android:drawable="@drawable/music_node_musify"
+        android:gravity="center"/>
+</layer-list>
